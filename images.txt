@@ -1,1 +1,1 @@
-postgres:13.7-bullseye
+alpine:3.19.1
