@@ -3,3 +3,4 @@ alpine:3.19.1
 mysql
 openjdk:8-jre
 dweizhao/frontend:latest
+dweizhao/backend:latest
