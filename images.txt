@@ -1,1 +1,1 @@
-loadimpact/k6
+nien/nginx-gateway:v0.0.1
